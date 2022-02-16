@@ -1,0 +1,32 @@
+body{
+  background-image: url("https://w.wallhaven.cc/full/43/wallhaven-435jky.png");
+  font-family: "Shizuru";
+  color: red;
+}
+
+h1 {
+  color: red;
+}
+
+h2 {
+  color:red;
+}
+
+.left {
+  float: left;
+
+}
+
+.left2 {
+  float:left;
+  margin-left: 400px;
+}
+
+.middle {
+  float: right;
+  margin-right: 400px;
+}
+
+.right {
+  float: right;
+}
